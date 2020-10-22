@@ -7,6 +7,7 @@
     </types>
     <types>
         <members>Loan__c.Closed_Date__c</members>
+        <members>ddcAssess__Assessment_Summary__c.ddcAssess__Batch_Id__c</members>
         <members>ddcAssess__Assessment_Summary__c.ddcAssess__Complete__c</members>
         <name>CustomField</name>
     </types>
